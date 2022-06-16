@@ -14,10 +14,6 @@ public class PrimeiroPrograma {
 	}
 		
 		
-		/*System.out.println(" Decola Mulekeeee rsss ");
-
-	}*/
-
 }
 
 class Livros {
